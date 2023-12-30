@@ -4,7 +4,7 @@
   "version": "0.11.9",
   "main": "dist/sim/index.js",
   "dependencies": {
-    "preact": "^10.5.15",
+    "preact": "^10.19.3",
     "preact-render-to-string": "^5.1.19",
     "probe-image-size": "^7.2.3",
     "sockjs": "^0.3.21",
